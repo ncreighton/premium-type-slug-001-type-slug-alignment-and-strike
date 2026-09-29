@@ -1,0 +1,2 @@
+# premium-type-slug-001-type-slug-alignment-and-strike
+Stop treating all tasks equally. Your energy is finite — and your most impactful work needs a precision strike, not a scattergun.  This Notion template solves the problem of misallocated effort by helping you categorize work into 'slug types' (deep focus, shallow tasks, admin) and assign a strike force value (1-10) based on required energy. The dai
